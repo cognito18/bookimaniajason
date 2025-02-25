@@ -1,0 +1,50 @@
+[
+    {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "description": "A novel set in the Roaring Twenties, exploring themes of wealth, love, and the American Dream.",
+        "price": 10.99,
+        "contact": "seller@example.com"
+    },
+    {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "description": "A story of racial injustice and moral growth in the American South.",
+        "price": 8.50,
+        "contact": "harperlee_books@example.com"
+    },
+    {
+        "name": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "description": "A chilling depiction of a totalitarian society under constant surveillance.",
+        "price": 12.00,
+        "contact": "bigbrother@example.com"
+    },
+    {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "description": "A novel set in the Roaring Twenties, exploring themes of wealth, love, and the American Dream.",
+        "price": 10.99,
+        "contact": "seller@example.com"
+    },
+    {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "description": "A story of racial injustice and moral growth in the American South.",
+        "price": 8.50,
+        "contact": "harperlee_books@example.com"
+    },
+    {
+        "name": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "description": "A chilling depiction of a totalitarian society under constant surveillance.",
+        "price": 12.00,
+        "contact": "bigbrother@example.com"
+    }
+]
